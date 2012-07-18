@@ -6,4 +6,4 @@ This code is now deprecated and the new tip is managed at https://github.com/lac
 
 The latest documentation for that project can be found at:
 
-	https://github.com/lacostej/iOSprovisioningprofiles/blob/5ed549fdb53f663ca29b39dec7a94abeb7c6d8b0/README.md
+https://github.com/lacostej/iOSprovisioningprofiles/blob/5ed549fdb53f663ca29b39dec7a94abeb7c6d8b0/README.md
